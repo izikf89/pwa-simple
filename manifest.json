@@ -1,0 +1,11 @@
+{
+    "display": "fullscreen",
+    "short_name": "pwa",
+    "name": "pwa",
+    "start_url": "/index.html",
+    "icons": [{
+        "src": "homescreen144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }]
+}
