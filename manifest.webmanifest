@@ -1,5 +1,5 @@
 {
-    "display": "fullscreen",
+    "display": "standalone",
     "short_name": "pwa",
     "name": "pwa",
     "start_url": "./",
